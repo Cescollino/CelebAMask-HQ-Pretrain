@@ -2,4 +2,6 @@ face_parsing/bin/
 face_parsing/lib/
 face_parsing/lib64
 face_parsing/include/
+face_parsing/share/
 face_parsing/pyvenv.cfg
+CelebAMask-HQ.zip
